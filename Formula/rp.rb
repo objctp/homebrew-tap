@@ -1,8 +1,8 @@
 class Rp < Formula
-  desc "CLI for managing RunPod infrastructure (volumes, serverless, pods, billing)"
+  desc "CLI for managing Runpod infrastructure (volumes, serverless, pods, billing)"
   homepage "https://github.com/objctp/runpod-cli"
-  url "https://github.com/objctp/runpod-cli/releases/download/1.2.0/rp-1.2.0.tar.gz"
-  sha256 "62d25fcbc8d3661c1f6c0d8a7d60f2a7dadf1c42c470aedc742b87035b19485d"
+  url "https://github.com/objctp/runpod-cli/releases/download/1.3.0/rp-1.3.0.tar.gz"
+  sha256 "8d4533b683ad874f6b61dc90066aa3f1faa6bb9012cc70159a9fa05ef9d645a4"
   license "MIT"
 
   depends_on "bash"
